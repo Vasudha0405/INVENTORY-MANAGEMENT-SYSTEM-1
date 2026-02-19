@@ -67,15 +67,17 @@ We welcome contributions! Please:
 4. Push to branch (`git push origin feature-name`)
 5. Open a Pull Request
 
-## 📜 License
-This project is licensed under the MIT License. See the `[Looks like the result wasn't safe to show. Let's switch things up and try something else!]` file for details.
 
 ## 👥 Team
 Developed and maintained by the **Inventory Management System Team**.
 ```
-
+TEAM MEMBERS:
+THEJASWINI M
+VASUDHA
+VIDHULA SHREE SHANKAR
+VIDYA MATHAD
+YUKTHA D
+BHARATH M GOWDA
 ---
 
-👉 This template gives you a professional README that covers **purpose, features, setup, and contribution guidelines**.  
 
-Would you like me to tailor this README more toward a **website project** (with deployment instructions, hosting info, etc.) or a **software application** (with installation packages and system requirements)?
