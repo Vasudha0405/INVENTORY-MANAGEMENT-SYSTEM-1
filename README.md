@@ -1,5 +1,4 @@
 # INVENTORY-MANAGEMENT-SYSTEM-1
-Here’s a solid starting point for your **README.md** file in GitHub for the *Inventory Management System* repository. You can adapt it depending on whether you’re building a website, desktop software, or both:
 
 ```markdown
 # Inventory Management System
